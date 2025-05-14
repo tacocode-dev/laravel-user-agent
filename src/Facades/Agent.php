@@ -1,6 +1,6 @@
 <?php
 
-namespace Jenssegers\Agent\Facades;
+namespace TacoCode\LaravelUserAgent\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

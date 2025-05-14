@@ -1,10 +1,10 @@
 <?php
 
-namespace Jenssegers\Agent;
+namespace TacoCode\LaravelUserAgent;
 
 use Illuminate\Support\ServiceProvider;
 
-class AgentServiceProvider extends ServiceProvider
+class LaravelUserAgentServiceProvider extends ServiceProvider
 {
     /**
      * Indicates if loading of the provider is deferred.

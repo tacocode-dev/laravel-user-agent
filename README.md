@@ -24,7 +24,7 @@ Laravel (optional)
 Add the service provider in `config/app.php`:
 
 ```php
-Jenssegers\Agent\AgentServiceProvider::class,
+Jenssegers\Agent\LaravelUserAgentServiceProvider::class,
 ```
 
 And add the Agent alias to `config/app.php`:
